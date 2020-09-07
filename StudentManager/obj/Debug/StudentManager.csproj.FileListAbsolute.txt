@@ -1,0 +1,30 @@
+C:\Users\talha\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\talha\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\talha\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csprojResolveAssemblyReference.cache
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.AddStudentForm.resources
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Form1.resources
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.Cache
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.ViewStudentForm.resources
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.DeleteStudentForm.resources
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.LoginForm.resources
+C:\Users\talha\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UpdateStudentForm.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.AddStudentForm.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.DeleteStudentForm.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.Form1.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.LoginForm.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.UpdateStudentForm.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.ViewStudentForm.resources
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\Khurram mushtaq\Pictures\New folder\StudentManager\StudentManager 1\StudentManager\obj\Debug\StudentManager.pdb
